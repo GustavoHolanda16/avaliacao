@@ -1,0 +1,11 @@
+Com base na descrição da sua logomarca, aqui estão algumas sugestões de cores para o seu site:
+
+1. **Cor principal**: Laranja (#FFA500). Esta cor pode ser usada para destacar elementos importantes, como botões e links.
+
+2. **Cores secundárias**: Preto (#000000) e Branco (#FFFFFF). O preto pode ser usado para o texto e o branco para o fundo. Isso proporcionará um bom contraste e tornará o conteúdo facilmente legível.
+
+3. **Cor de fundo**: Cinza claro (#F5F5F5). Esta cor pode ser usada para o fundo do site. Ela é suave para os olhos e permite que os elementos laranja e preto se destaquem.
+
+4. **Cor da fonte**: Preto (#000000) para o texto principal e Laranja (#FFA500) para títulos e cabeçalhos.
+
+Lembre-se, estas são apenas sugestões e você pode ajustar as cores conforme necessário para atender às suas preferências e necessidades. A chave é garantir que o site seja atraente e fácil de navegar para os usuários.
