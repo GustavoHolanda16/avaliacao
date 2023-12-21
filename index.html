@@ -91,12 +91,12 @@
           <h2 id="ec">Entre em contato:</h2>
           <form class="form" action="/submit_comentario" method="post">
             <label  for="input" class="text">Nome:</label>
-            <input  type="text" placeholder="Maria..." name="input" class="input">
+            <input id="nome" type="text" placeholder="Maria..." name="input" class="input">
             <label  for="input" class="text">Telefone:</label>
-            <input  type="text" placeholder="(89)99478521..." name="input" class="input">
+            <input id="tel" type="text" placeholder="(89)99478521..." name="input" class="input">
             <label  for="input" class="text">Email:</label>
-            <input  type="text" placeholder="Nerdfix@hotmail.com..." name="input" class="input">
-            <button class="button"><p>Enviar</p></button>
+            <input id="email" type="text" placeholder="Nerdfix@hotmail.com..." name="input" class="input">
+            <button class="button" type="button" onclick="alerta()"><p>Enviar</p></button>
           </form>
         </div>
       </div>
@@ -106,6 +106,7 @@
       </div>
     </div>
   </section>
+  <script src="js.js"></script>
 </body>
 <footer>
   <footer>
